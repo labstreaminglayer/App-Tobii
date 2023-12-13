@@ -1,3 +1,5 @@
+This repository is now archived. It never worked properly. Please find the other Tobii LSL apps.
+
 == Usage ==
 
 This program is currently untested since we don't have access to the hardware at this moment (http://www.tobii.com/) -- let me know if you find that it actually works. :-)
